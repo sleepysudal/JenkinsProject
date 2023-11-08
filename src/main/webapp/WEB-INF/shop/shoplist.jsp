@@ -11,10 +11,14 @@
 <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
 </head>
 <body>
-안녕하세요<br>영환썜입니다
-WoW
+<h1>안녕하세요</h1>
 <br>
-<br>팜하니보소
+<h1>영환썜입니다</h1>
+<br>
+<h1>WoW</h1>
+<br>
+<h1>팜하니보소</h1>
+<br>
  <img alt="" src="../hani1.jpeg" style="width: 300px;"><br> 
  <img alt="" src="../hani2.webp" style="width: 300px;"><br> 
 </body>
