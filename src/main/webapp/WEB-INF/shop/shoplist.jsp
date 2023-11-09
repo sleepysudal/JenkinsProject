@@ -19,6 +19,8 @@
 <br>
 <h1>팜하니보소</h1>
 <br>
+<h1>팜하니와</h1>
+<br>
  <img alt="" src="../hani1.jpeg" style="width: 300px;"><br> 
  <img alt="" src="../hani2.webp" style="width: 300px;"><br> 
 </body>
